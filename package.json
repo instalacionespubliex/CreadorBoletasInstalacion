@@ -1,0 +1,15 @@
+{
+  "name": "creadorboletasinstalacion",
+  "version": "1.0.0",
+  "description": "Proyecto en Node.js para recibir webhooks desde Jira y procesar datos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
